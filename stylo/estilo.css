@@ -1,0 +1,35 @@
+.contenedor a{
+    font-size: 50px;
+}
+
+.esquema_barra ul{
+    list-style-type: none;
+}
+
+.esquema_barra ul li{
+    float: left;
+    margin:0px 1px;
+    padding:5px;
+    border:1px;
+    border-right:4px; border-bottom:4px;
+    background:black;
+    cursor: pointer;
+    color: white;
+    
+    
+}
+
+.esquema_barra ul li a {
+    display: block;
+    padding: 5px;
+}
+
+
+.activo{
+    background: white;
+    color: black;
+}
+
+
+
+
